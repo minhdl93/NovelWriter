@@ -1,0 +1,35 @@
+
+
+Ok - will use partial Swallows (code in another directory)
+Will generate the world - and then make parts more important than other
+s
+
+Writing
+  Characters need introspection
+  Characters need to write what they are thinking - not just dialog
+
+Generate characters
+Generate weapons and items
+
+Generate their usage
+
+Generat teams??
+
+Create weapon, item, magic, etc. items from srd
+
+Character has
+  motivations
+  nerves
+  passion
+  goal
+
+# Ordinary world
+
+# Dungeon generators
+http://www.apolitical.info/webgame/dungeon/
+
+# D&D Generators
+http://rpg20.com/about.php#dungeon
+
+# Code examples
+https://github.com/catseye/NaNoGenLab
