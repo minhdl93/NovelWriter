@@ -1,9 +1,13 @@
 Wayward's list of things to do:
   Genorators:
     -Hero
-      male
-      female
-      (non binary?)
+    Gender
+        male
+        female
+        (non binary?)
+      Appenence
+      (Attitude?)
+      D&D like stats
     -Items 
       important
       trival
@@ -24,9 +28,51 @@ Wayward's list of things to do:
           eg. mayor, pesent, king, nobility, merchant, ect.
       A map
       Enterable house (if possible)
-        eg. Tavern, 
+        eg. tavern, castle, witches house?
       how many (based on World size)
-      
+    -NPCs
+      Monsters
+        Mindless creatures that will sometimes attack the Hero
+        D&D stats
+        Depending on the environment the Hero is in, different monsters will spawn
+      Peope
+        This will generate all of the nondiscript, filler people 
+        Apperance
+        D&D stats
+      Allies
+        More important people to the story that help the Hero on their quest
+        Apperance
+        D&D stats
+        (Attitude?)
+        (Reason for joining Hero?)
+      Enemies
+        Like Allies but evil
+        Apperance
+        D&D stats
+        (Attitude?)
+        (Reason for being evil??)
+      Villain
+        The Big Bad
+        Apparance
+        D&D stats
+        (Attitude?)
+        (Reason for evil?)
+        (Maybe also a giant creature?eg. Dragon, town sized bear? Hydra, ect.)
+    - World
+      Size
+        Big
+        Medium
+        Small
+      Biomes
+       For each world size, there are a set number of biomes it can have. Choose from a list of biomes and randomly place
+       them in the world
+      Towns
+        Run the Town gen. depending on size
+      Monsters
+        Populate the world with mosters depending on Biome
+      Map
+        physical layout of world
+        
 
 
 
