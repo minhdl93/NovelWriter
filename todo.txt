@@ -81,7 +81,10 @@ Wayward's list of things to do:
   
   Once everything is generated, we will need to keep track of all that stuff.
   Additional things to keep track of:
-    Mood
+    -Moods
+      of Hero
+      of NPCs
+      of Story (eg. if there is a fight, the mood is Tense, ect.)
 
 
 
