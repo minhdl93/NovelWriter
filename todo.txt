@@ -7,10 +7,16 @@ Wayward's list of things to do:
         (non binary?)
       Appenence
       (Attitude?)
-      D&D like stats
+      D&D stats
     -Items 
-      important
-      trival
+      Weapons
+        Type of weapon(Sword, Mace, Pike, etc.)
+        D&D stats
+      Trinkets
+        Items that aren't weapons(Necklaces, braclets, cloaks, etc.)
+        D&D stats
+      Importance
+        There can only be one importante item per game. This item will have a magic D&D modifier and help the Hero.
       how many (based on World size)
     -Towns
       Status/size
@@ -72,13 +78,12 @@ Wayward's list of things to do:
         Populate the world with mosters depending on Biome
       Map
         physical layout of world
-        
+  
+  Once everything is generated, we will need to keep track of all that stuff.
+  Additional things to keep track of:
+    Mood
 
 
-
-Ok - will use partial Swallows (code in another directory)
-Will generate the world - and then make parts more important than other
-s
 
 Writing
   Characters need introspection
