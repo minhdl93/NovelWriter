@@ -1,3 +1,33 @@
+Wayward's list of things to do:
+  Genorators:
+    -Hero
+      male
+      female
+      (non binary?)
+    -Items 
+      important
+      trival
+      how many (based on World size)
+    -Towns
+      Status/size
+        rich big
+        rich medium
+        middle-income big
+        middle-income medium
+        middle-income small
+        poor medium
+        poor small
+      (importance?)
+      People
+        This will generate a number based on status/size and then run the NPC genorater that number of times.
+        Then it will assign stats to these random people, again, based on status/size 
+          eg. mayor, pesent, king, nobility, merchant, ect.
+      A map
+      Enterable house (if possible)
+        eg. Tavern, 
+      how many (based on World size)
+      
+
 
 
 Ok - will use partial Swallows (code in another directory)
