@@ -119,6 +119,8 @@ Wayward's list of things to do:
         Probably more
         
   We need to make a timer or pseudo-timer
+    It takes a step every tiny amount of time (milisecond?)
+    Every step, the Hero moves forward one action
 
 
 
