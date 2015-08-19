@@ -118,9 +118,18 @@ Wayward's list of things to do:
           Every biome in the world
         Probably more
         
+  We will need classes for the sentances we need to generate.
+  We will need a class to define how all the word bits work (Verbs, Nouns, ect.)
+  A class for all different sentances. (Descriptor, Action, ect.)
+  A class that takes the mood and other parameters and uses words based on that.  
+
   We need to make a timer or pseudo-timer
     It takes a step every tiny amount of time (milisecond?)
     Every step, the Hero moves forward one action
+    
+  When the world is generated, we also generate a path for the hero.
+  This will be based on the other things we generate.
+  
 
 
 
