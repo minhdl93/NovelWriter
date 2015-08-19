@@ -6,7 +6,6 @@ Wayward's list of things to do:
         female
         (non binary?)
       Appenence
-      (Attitude?)
       D&D stats
     -Items 
       Weapons
@@ -49,20 +48,14 @@ Wayward's list of things to do:
         More important people to the story that help the Hero on their quest
         Apperance
         D&D stats
-        (Attitude?)
-        (Reason for joining Hero?)
       Enemies
         Like Allies but evil
         Apperance
         D&D stats
-        (Attitude?)
-        (Reason for being evil??)
       Villain
         The Big Bad
         Apparance
         D&D stats
-        (Attitude?)
-        (Reason for evil?)
         (Maybe also a giant creature?eg. Dragon, town sized bear? Hydra, ect.)
     - World
       Size
@@ -85,6 +78,47 @@ Wayward's list of things to do:
       of Hero
       of NPCs
       of Story (eg. if there is a fight, the mood is Tense, ect.)
+    -Motivation
+      for Villain
+      for Enemies
+      for Allies
+      for Hero
+    - Character traits for all major characters
+      Allies and Enemies will have one trait
+      The Villian and the Hero will have two 
+      OR
+      Everyone will have one (this will be easier)
+  
+  The writing stuff
+    We will need to define or find some code that defines the rules of the english language.
+    Then we need to find huge list of a bunch of words we can use. 
+    
+    We will need to list our words
+      A list for:
+        every Emotion
+        every Mood
+        every Character trait
+        all the:
+          Verbs
+          Nouns
+          Adjectives
+          Adverbs
+          Conjunctions
+          ect.
+        NPCs
+        Allies
+        Enemies
+        Hero
+        Villian
+        Towns
+          Rich
+          Middle-income
+          Poor
+        World
+          Every biome in the world
+        Probably more
+        
+  We need to make a timer or pseudo-timer
 
 
 
